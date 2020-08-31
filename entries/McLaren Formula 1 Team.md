@@ -1,0 +1,3 @@
+#McLaren Formula 1 Team
+
+McLaren Racing Limited is a British motor racing team based at the McLaren Technology Centre, Woking, Surrey, England. McLaren is best known as a [Formula One](/wiki/Formula One) constructor and also has a history of competing in American open wheel racing as both an entrant and a chassis constructor, and has won the Canadian-American Challenge Cup (Can-Am) sports car racing championship.

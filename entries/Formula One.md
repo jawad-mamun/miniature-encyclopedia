@@ -1,0 +1,3 @@
+#Formula One
+
+Formula One is the highest class of international single-seater auto racing sanctioned by the Fédération Internationale de l'Automobile (FIA) and owned by Liberty Media, an American mass media company, through its wholly-owned subsidiary, the Formula One Group. The word "formula" in the name refers to the set of rules to which all participants' cars must conform. A Formula One season consists of a series of races, known as Grands Prix (French for ''grand prizes' or 'great prizes''), which take place worldwide on purpose-built circuits and on public roads.

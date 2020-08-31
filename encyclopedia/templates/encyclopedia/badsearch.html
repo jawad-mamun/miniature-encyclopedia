@@ -1,0 +1,17 @@
+{% extends "encyclopedia/layout.html" %}
+{% block title %}
+    Search Not Found
+{% endblock %}
+
+{% block body %}
+    <h1>Oops! We couldn't find your search!</h1>
+
+    <h4>Here's a list of all encyclopedia entries that have your search as a substring:</h4>
+
+    {%for super in superstring%}
+        <li><a href="/wiki/{{super}}">{{super}}</a></li>
+    {%empty%}
+        What do you know! There are no such entries, try your search again!
+    {%endfor%}
+
+{% endblock %}

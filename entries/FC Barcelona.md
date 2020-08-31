@@ -1,0 +1,3 @@
+#FC Barcelona
+
+Futbol Club Barcelona, commonly referred to as Barcelona and colloquially known as Barça, is a Spanish professional football club based in Barcelona, Catalonia. Barcelona is one of the most widely supported teams in the world, and the club has one of the largest social media following in the world among sports teams. In 2010, three players who came through the club's youth academy (Lionel Messi, Andrés Iniesta, and Xavi) were chosen as the three best players in the world in the FIFA Ballon d'Or awards, an unprecedented feat for players from the same football school.

@@ -1,0 +1,24 @@
+{% extends "encyclopedia/layout.html" %}
+{% block title %}
+    Create a New Page
+{% endblock %}
+
+{% block nav %}
+    
+{% endblock %}
+
+{% block body %}
+    <h1>Enter Information for New Page Here:</h1>
+
+    <!--Only appears when the page already exists-->
+    <div style="color: red;">{{error}}</div>
+
+    <div>
+        <form method="post">
+            {% csrf_token %}
+            {{new_page.as_p}}
+            <input name = "newpage" type="submit" value="Submit">
+        </form>
+    </div>
+    
+{% endblock %}

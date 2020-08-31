@@ -1,0 +1,17 @@
+<!--Uses inheritance for the page layout-->
+{% extends "encyclopedia/layout.html" %}
+{% block title %}
+    {{entry}}
+{% endblock %}
+
+{% block nav %}
+    <div>
+        <a href="/editpage/{{entry}}">Edit This Page</a>
+    </div>
+{% endblock %}
+
+{% block body %}
+    <!--adds the |safe so the HTML string is outputted rather than the Django default of HTML-escaping the value-->
+    {{description|safe}}
+
+{% endblock %}
