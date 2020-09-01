@@ -11,7 +11,13 @@ To run the website, clone the repository and through your command line, change t
 * **Create New Page**: Click here to create a new page. You'll be able to enter a title for the page and, in a textarea, you'll be able to enter the Markdown content for the page.
 * **Random Page**: Click here if you're feeling adventurous to be taken to a random encylopedia page!
 
-
+<br />
+P.S.: If you're looking for an entry to insert into the encyclopedia page, feel free to take this one ;)
+<br />
+"#Jawad
+<br />
+A computer science student always looking to further progress his skills. A hard worker, Jawad will fit in well at any internship."
+<br />
 
 
 Here's some examples of what the page looks like:
