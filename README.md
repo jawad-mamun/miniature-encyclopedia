@@ -10,3 +10,7 @@ All edits/entries in the encyclopedia are done with Markdown Text. [Click here](
 * **Random Page**: Click here if you're feeling adventurous to be taken to a random encylopedia page!
 
 Here's some examples of what the page looks like:
+<img src="./encyc_demo1.png">
+<img src="./encyc_demo2.png">
+<img src="./encyc_demo3.png">
+<img src="./encyc_demo4.png">
